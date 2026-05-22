@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+  <sys_security_acl action="INSERT_OR_UPDATE">
+    <sys_id>0a837d0f528c40f8aefef303049f2296</sys_id>
+    <sys_scope display_value="x_1579831_projec_0">59fcc7b8c3c58710ab00f3ddd4013122</sys_scope>
+    <sys_update_name>sys_security_acl_0a837d0f528c40f8aefef303049f2296</sys_update_name>
+    <active>true</active>
+    <admin_overrides>true</admin_overrides>
+    <advanced>false</advanced>
+    <applies_to/>
+    <condition/>
+    <decision_type>allow</decision_type>
+    <description>Allow all project roles to read tasks</description>
+    <local_or_existing>Local</local_or_existing>
+    <name>x_1579831_projec_0_u_project_task</name>
+    <operation>read</operation>
+    <script/>
+    <security_attribute/>
+    <sys_policy/>
+    <type>record</type>
+  </sys_security_acl>
+</record_update>

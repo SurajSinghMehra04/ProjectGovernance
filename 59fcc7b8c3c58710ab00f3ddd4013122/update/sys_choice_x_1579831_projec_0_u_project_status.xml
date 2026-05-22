@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_choice_set field="status" table="x_1579831_projec_0_u_project">
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>2071476b143343929b8bbb2f63c8a053</sys_id>
+      <name>x_1579831_projec_0_u_project</name>
+      <element>status</element>
+      <label>Draft</label>
+      <value>draft</value>
+      <sequence>0</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>8fd235fc6dda49dc9cb065ba20773691</sys_id>
+      <name>x_1579831_projec_0_u_project</name>
+      <element>status</element>
+      <label>Planned</label>
+      <value>planned</value>
+      <sequence>1</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>08d5fe05db304568a288a338ae62fa8f</sys_id>
+      <name>x_1579831_projec_0_u_project</name>
+      <element>status</element>
+      <label>In Progress</label>
+      <value>in_progress</value>
+      <sequence>2</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>3e81c354c1474560b6c18f8a386304be</sys_id>
+      <name>x_1579831_projec_0_u_project</name>
+      <element>status</element>
+      <label>On Hold</label>
+      <value>on_hold</value>
+      <sequence>3</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>d87f2f951e42497886baf3a761650e23</sys_id>
+      <name>x_1579831_projec_0_u_project</name>
+      <element>status</element>
+      <label>Completed</label>
+      <value>completed</value>
+      <sequence>4</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>1dfd99a7f20e4d6ab87ea80acb6d789f</sys_id>
+      <name>x_1579831_projec_0_u_project</name>
+      <element>status</element>
+      <label>Cancelled</label>
+      <value>cancelled</value>
+      <sequence>5</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice_set action="INSERT_OR_UPDATE">
+      <sys_id>5117c49b324b40bdbcc0103f157d07a4</sys_id>
+      <sys_scope display_value="x_1579831_projec_0">59fcc7b8c3c58710ab00f3ddd4013122</sys_scope>
+      <name>x_1579831_projec_0_u_project</name>
+      <element>status</element>
+    </sys_choice_set>
+  </sys_choice_set>
+</record_update>

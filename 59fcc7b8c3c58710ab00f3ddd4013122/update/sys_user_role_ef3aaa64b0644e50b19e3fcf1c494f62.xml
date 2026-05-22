@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+  <sys_user_role action="INSERT_OR_UPDATE">
+    <sys_id>ef3aaa64b0644e50b19e3fcf1c494f62</sys_id>
+    <sys_scope display_value="x_1579831_projec_0">59fcc7b8c3c58710ab00f3ddd4013122</sys_scope>
+    <sys_update_name>sys_user_role_ef3aaa64b0644e50b19e3fcf1c494f62</sys_update_name>
+    <assignable_by/>
+    <can_delegate>true</can_delegate>
+    <description>Full edit access to owned/managed projects and their tasks</description>
+    <elevated_privilege>false</elevated_privilege>
+    <grantable>true</grantable>
+    <name>x_1579831_projec_0.project_manager</name>
+    <scoped_admin>false</scoped_admin>
+    <suffix>project_manager</suffix>
+  </sys_user_role>
+</record_update>

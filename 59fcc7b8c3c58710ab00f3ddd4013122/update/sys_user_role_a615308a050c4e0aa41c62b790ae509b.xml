@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+  <sys_user_role action="INSERT_OR_UPDATE">
+    <sys_id>a615308a050c4e0aa41c62b790ae509b</sys_id>
+    <sys_scope display_value="x_1579831_projec_0">59fcc7b8c3c58710ab00f3ddd4013122</sys_scope>
+    <sys_update_name>sys_user_role_a615308a050c4e0aa41c62b790ae509b</sys_update_name>
+    <assignable_by/>
+    <can_delegate>true</can_delegate>
+    <description>Read assigned projects, update assigned tasks only</description>
+    <elevated_privilege>false</elevated_privilege>
+    <grantable>true</grantable>
+    <name>x_1579831_projec_0.project_team_member</name>
+    <scoped_admin>false</scoped_admin>
+    <suffix>project_team_member</suffix>
+  </sys_user_role>
+</record_update>

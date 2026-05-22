@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+  <sys_index action="INSERT_OR_UPDATE">
+    <sys_id>7789201d712c4644b21d9d965d4ecab4</sys_id>
+    <sys_scope display_value="x_1579831_projec_0">59fcc7b8c3c58710ab00f3ddd4013122</sys_scope>
+    <sys_update_name>sys_index_7789201d712c4644b21d9d965d4ecab4</sys_update_name>
+    <col_name_string>manager</col_name_string>
+    <index_col_name>fdfad24862db4a9dbeea216afd69ea03</index_col_name>
+    <index_name>idx_project_manager</index_name>
+    <logical_table_name>x_1579831_projec_0_u_project</logical_table_name>
+    <unique_index>false</unique_index>
+  </sys_index>
+</record_update>

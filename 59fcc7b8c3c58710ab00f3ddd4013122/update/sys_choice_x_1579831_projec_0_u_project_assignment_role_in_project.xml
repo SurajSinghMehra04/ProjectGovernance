@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_choice_set field="role_in_project" table="x_1579831_projec_0_u_project_assignment">
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>2251fb357a404e3499d3277755405906</sys_id>
+      <name>x_1579831_projec_0_u_project_assignment</name>
+      <element>role_in_project</element>
+      <label>Project Lead</label>
+      <value>lead</value>
+      <sequence>0</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>163e7fcde64949d684c3727df3aba1dd</sys_id>
+      <name>x_1579831_projec_0_u_project_assignment</name>
+      <element>role_in_project</element>
+      <label>Developer</label>
+      <value>developer</value>
+      <sequence>1</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>438c642b35e443b19cbc13e99f4f3d10</sys_id>
+      <name>x_1579831_projec_0_u_project_assignment</name>
+      <element>role_in_project</element>
+      <label>Business Analyst</label>
+      <value>analyst</value>
+      <sequence>2</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>757c171b17504116a363def8b801e07c</sys_id>
+      <name>x_1579831_projec_0_u_project_assignment</name>
+      <element>role_in_project</element>
+      <label>Tester</label>
+      <value>tester</value>
+      <sequence>3</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>ab52b665e94a429cb7af926a9ad2a21f</sys_id>
+      <name>x_1579831_projec_0_u_project_assignment</name>
+      <element>role_in_project</element>
+      <label>Designer</label>
+      <value>designer</value>
+      <sequence>4</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>e9ed28b9b2124a2bbd0b807a27b15578</sys_id>
+      <name>x_1579831_projec_0_u_project_assignment</name>
+      <element>role_in_project</element>
+      <label>Stakeholder</label>
+      <value>stakeholder</value>
+      <sequence>5</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>6676d97156064b858af5d0300a9f9b6b</sys_id>
+      <name>x_1579831_projec_0_u_project_assignment</name>
+      <element>role_in_project</element>
+      <label>Consultant</label>
+      <value>consultant</value>
+      <sequence>6</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice_set action="INSERT_OR_UPDATE">
+      <sys_id>0e3ff3d9b1c3471f95dbe77b827f60df</sys_id>
+      <sys_scope display_value="x_1579831_projec_0">59fcc7b8c3c58710ab00f3ddd4013122</sys_scope>
+      <name>x_1579831_projec_0_u_project_assignment</name>
+      <element>role_in_project</element>
+    </sys_choice_set>
+  </sys_choice_set>
+</record_update>

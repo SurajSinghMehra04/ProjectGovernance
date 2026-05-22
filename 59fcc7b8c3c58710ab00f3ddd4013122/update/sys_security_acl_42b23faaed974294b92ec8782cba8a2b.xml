@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+  <sys_security_acl action="INSERT_OR_UPDATE">
+    <sys_id>42b23faaed974294b92ec8782cba8a2b</sys_id>
+    <sys_scope display_value="x_1579831_projec_0">59fcc7b8c3c58710ab00f3ddd4013122</sys_scope>
+    <sys_update_name>sys_security_acl_42b23faaed974294b92ec8782cba8a2b</sys_update_name>
+    <active>true</active>
+    <admin_overrides>true</admin_overrides>
+    <advanced>true</advanced>
+    <applies_to/>
+    <condition/>
+    <decision_type>allow</decision_type>
+    <description>Allow team members to update only their assigned tasks</description>
+    <local_or_existing>Local</local_or_existing>
+    <name>x_1579831_projec_0_u_project_task</name>
+    <operation>write</operation>
+    <script><![CDATA[
+    var userId = gs.getUserID();
+    answer = (current.assigned_to.toString() == userId);
+  ]]></script>
+    <security_attribute/>
+    <sys_policy/>
+    <type>record</type>
+  </sys_security_acl>
+</record_update>

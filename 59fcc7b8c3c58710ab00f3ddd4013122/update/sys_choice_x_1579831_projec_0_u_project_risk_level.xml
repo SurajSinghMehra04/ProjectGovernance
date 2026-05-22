@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_choice_set field="risk_level" table="x_1579831_projec_0_u_project">
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>7275ab063cd54fed87639447bd64417f</sys_id>
+      <name>x_1579831_projec_0_u_project</name>
+      <element>risk_level</element>
+      <label>Low</label>
+      <value>low</value>
+      <sequence>0</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>ea2f2bf68cbd4b3c9d8c7c61475472b4</sys_id>
+      <name>x_1579831_projec_0_u_project</name>
+      <element>risk_level</element>
+      <label>Medium</label>
+      <value>medium</value>
+      <sequence>1</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>59cc5e6cb7bc4834b44880a2f68da70b</sys_id>
+      <name>x_1579831_projec_0_u_project</name>
+      <element>risk_level</element>
+      <label>High</label>
+      <value>high</value>
+      <sequence>2</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>df737df172f84917945625441f84adec</sys_id>
+      <name>x_1579831_projec_0_u_project</name>
+      <element>risk_level</element>
+      <label>Critical</label>
+      <value>critical</value>
+      <sequence>3</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice_set action="INSERT_OR_UPDATE">
+      <sys_id>32f5d696a8ee4cd09cb59f7328678902</sys_id>
+      <sys_scope display_value="x_1579831_projec_0">59fcc7b8c3c58710ab00f3ddd4013122</sys_scope>
+      <name>x_1579831_projec_0_u_project</name>
+      <element>risk_level</element>
+    </sys_choice_set>
+  </sys_choice_set>
+</record_update>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+  <sys_index action="INSERT_OR_UPDATE">
+    <sys_id>e144ea212578477e90b3f02d56949b25</sys_id>
+    <sys_scope display_value="x_1579831_projec_0">59fcc7b8c3c58710ab00f3ddd4013122</sys_scope>
+    <sys_update_name>sys_index_e144ea212578477e90b3f02d56949b25</sys_update_name>
+    <col_name_string>status</col_name_string>
+    <index_col_name>3bc1fe1139634a0f91da538da5dc4e1b</index_col_name>
+    <index_name>idx_project_status</index_name>
+    <logical_table_name>x_1579831_projec_0_u_project</logical_table_name>
+    <unique_index>false</unique_index>
+  </sys_index>
+</record_update>

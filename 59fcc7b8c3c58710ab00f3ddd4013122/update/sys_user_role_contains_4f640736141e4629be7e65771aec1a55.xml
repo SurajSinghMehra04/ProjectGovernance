@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+  <sys_user_role_contains action="INSERT_OR_UPDATE">
+    <sys_id>4f640736141e4629be7e65771aec1a55</sys_id>
+    <sys_scope display_value="x_1579831_projec_0">59fcc7b8c3c58710ab00f3ddd4013122</sys_scope>
+    <sys_update_name>sys_user_role_contains_4f640736141e4629be7e65771aec1a55</sys_update_name>
+    <contains name="x_1579831_projec_0.project_manager">ef3aaa64b0644e50b19e3fcf1c494f62</contains>
+    <role name="x_1579831_projec_0.project_admin">0f783847c2f14423bc05ca62534d126a</role>
+  </sys_user_role_contains>
+</record_update>

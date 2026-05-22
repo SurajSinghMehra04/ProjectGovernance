@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+  <sys_index action="INSERT_OR_UPDATE">
+    <sys_id>0131fe67fb214fd5b29b5f7b70e98ecb</sys_id>
+    <sys_scope display_value="x_1579831_projec_0">59fcc7b8c3c58710ab00f3ddd4013122</sys_scope>
+    <sys_update_name>sys_index_0131fe67fb214fd5b29b5f7b70e98ecb</sys_update_name>
+    <col_name_string>assigned_to</col_name_string>
+    <index_col_name>f7e6db96fe4b4e7f95a8b7cee7305758</index_col_name>
+    <index_name>idx_task_assigned</index_name>
+    <logical_table_name>x_1579831_projec_0_u_project_task</logical_table_name>
+    <unique_index>false</unique_index>
+  </sys_index>
+</record_update>
