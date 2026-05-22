@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="enforce_dot_walk_cross_scope_access=true" audit="true" db_object_id="86bdbee23a1640ef801f669a05d4c64e" label="Project Task" name="x_1579831_projec_0_u_project_task" type="collection">
+    <element audit="true" db_object_id="86bdbee23a1640ef801f669a05d4c64e" label="Project Task" name="x_1579831_projec_0_u_project_task" type="collection">
         <element choice="1" default="3" label="Priority" max_length="40" name="priority" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Medium" sequence="2" value="3"/>

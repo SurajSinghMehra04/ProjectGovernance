@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="enforce_dot_walk_cross_scope_access=true" audit="true" db_object_id="89048d4ce72c41d0b593eee6e563a543" label="Project" name="x_1579831_projec_0_u_project" text_index="true" type="collection">
+    <element audit="true" db_object_id="89048d4ce72c41d0b593eee6e563a543" label="Project" name="x_1579831_projec_0_u_project" text_index="true" type="collection">
         <element choice="1" label="Project Type" max_length="40" name="project_type" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Operational" sequence="3" value="operational"/>
