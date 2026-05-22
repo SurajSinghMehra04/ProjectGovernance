@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
-  <sys_security_acl_role action="INSERT_OR_UPDATE">
-    <sys_id>9b6e3f508741411e91a581a67d882baf</sys_id>
-    <sys_scope display_value="x_1579831_projec_0">59fcc7b8c3c58710ab00f3ddd4013122</sys_scope>
-    <sys_update_name>sys_security_acl_role_9b6e3f508741411e91a581a67d882baf</sys_update_name>
-    <sys_security_acl>a9416c2cb21e43fca9927fdf3e385cce</sys_security_acl>
-    <sys_user_role name="x_1579831_projec_0.project_manager">ef3aaa64b0644e50b19e3fcf1c494f62</sys_user_role>
-  </sys_security_acl_role>
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-22 05:57:13</sys_created_on>
+        <sys_id>9b6e3f508741411e91a581a67d882baf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1579831_projec_0_u_project_task.</sys_name>
+        <sys_package display_value="Project Governance &amp;amp; Assignment Management" source="x_1579831_projec_0">59fcc7b8c3c58710ab00f3ddd4013122</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project Governance &amp;amp; Assignment Management">59fcc7b8c3c58710ab00f3ddd4013122</sys_scope>
+        <sys_security_acl display_value="x_1579831_projec_0_u_project_task">a9416c2cb21e43fca9927fdf3e385cce</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9b6e3f508741411e91a581a67d882baf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-22 05:57:13</sys_updated_on>
+        <sys_user_role display_value="x_1579831_projec_0.project_manager" name="x_1579831_projec_0.project_manager">ef3aaa64b0644e50b19e3fcf1c494f62</sys_user_role>
+    </sys_security_acl_role>
 </record_update>

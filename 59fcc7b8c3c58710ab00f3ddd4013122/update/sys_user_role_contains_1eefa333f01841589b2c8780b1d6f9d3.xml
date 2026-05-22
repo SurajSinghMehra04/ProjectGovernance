@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
-  <sys_user_role_contains action="INSERT_OR_UPDATE">
-    <sys_id>1eefa333f01841589b2c8780b1d6f9d3</sys_id>
-    <sys_scope display_value="x_1579831_projec_0">59fcc7b8c3c58710ab00f3ddd4013122</sys_scope>
-    <sys_update_name>sys_user_role_contains_1eefa333f01841589b2c8780b1d6f9d3</sys_update_name>
-    <contains name="x_1579831_projec_0.project_team_member">a615308a050c4e0aa41c62b790ae509b</contains>
-    <role name="x_1579831_projec_0.project_manager">ef3aaa64b0644e50b19e3fcf1c494f62</role>
-  </sys_user_role_contains>
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_1579831_projec_0.project_team_member" name="x_1579831_projec_0.project_team_member">a615308a050c4e0aa41c62b790ae509b</contains>
+        <role display_value="x_1579831_projec_0.project_manager" name="x_1579831_projec_0.project_manager">ef3aaa64b0644e50b19e3fcf1c494f62</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-22 05:57:13</sys_created_on>
+        <sys_id>1eefa333f01841589b2c8780b1d6f9d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1579831_projec_0.project_team_member.</sys_name>
+        <sys_package display_value="Project Governance &amp;amp; Assignment Management" source="x_1579831_projec_0">59fcc7b8c3c58710ab00f3ddd4013122</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project Governance &amp;amp; Assignment Management">59fcc7b8c3c58710ab00f3ddd4013122</sys_scope>
+        <sys_update_name>sys_user_role_contains_1eefa333f01841589b2c8780b1d6f9d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-22 05:57:13</sys_updated_on>
+    </sys_user_role_contains>
 </record_update>

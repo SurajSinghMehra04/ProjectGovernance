@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" audit="true" db_object_id="5f10de56e9ff4d22836174d2c92b3697" label="Project Assignment" name="x_1579831_projec_0_u_project_assignment" type="collection">
+        <element display="true" label="Assigned User" max_length="32" name="assigned_user" reference="sys_user" type="reference"/>
+        <element label="Project" mandatory="true" max_length="32" name="project" reference="x_1579831_projec_0_u_project" reference_cascade_rule="cascade" type="reference"/>
+        <element default="javascript:gs.getUserID();" label="Assigned By" max_length="32" name="assigned_by" reference="sys_user" type="reference"/>
+        <element default="javascript:gs.nowDateTime();" label="Assignment Date" max_length="40" name="assignment_date" type="glide_date_time"/>
+        <element choice="3" default="active" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Inactive" sequence="1" value="inactive"/>
+                <element inactive_on_update="false" label="Completed" sequence="2" value="completed"/>
+                <element inactive_on_update="false" label="Active" sequence="0" value="active"/>
+                <element inactive_on_update="false" label="Reassigned" sequence="3" value="reassigned"/>
+            </choice>
+        </element>
+        <element default="100" label="Allocation Percentage" max_length="40" name="allocation_percentage" type="integer"/>
+        <element label="Assigned Group" max_length="32" name="assigned_group" reference="sys_user_group" type="reference"/>
+        <element choice="1" label="Role in Project" max_length="40" name="role_in_project" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Developer" sequence="1" value="developer"/>
+                <element inactive_on_update="false" label="Project Lead" sequence="0" value="lead"/>
+                <element inactive_on_update="false" label="Business Analyst" sequence="2" value="analyst"/>
+                <element inactive_on_update="false" label="Consultant" sequence="6" value="consultant"/>
+                <element inactive_on_update="false" label="Tester" sequence="3" value="tester"/>
+                <element inactive_on_update="false" label="Designer" sequence="4" value="designer"/>
+                <element inactive_on_update="false" label="Stakeholder" sequence="5" value="stakeholder"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="assigned_by"/>
+        </index>
+        <index name="index2">
+            <element name="assigned_group"/>
+        </index>
+        <index name="index3">
+            <element name="assigned_user"/>
+        </index>
+        <index name="index4">
+            <element name="project"/>
+        </index>
+    </element>
+</database>
